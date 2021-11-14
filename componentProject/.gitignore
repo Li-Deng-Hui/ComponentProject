@@ -3,6 +3,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+logback.logdir_IS_UNDEFINED/
 
 ### STS ###
 .apt_generated
