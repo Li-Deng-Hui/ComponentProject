@@ -19,7 +19,7 @@ Vue.use(Vuex)
 Vue.config.productionTip = false
 
 import routers from './routers/index'
-const router=new VueRouter({routers})
+const router=new VueRouter({routes:routers})
 
 import stores from './stores/index'
 const store=new Vuex.Store(stores);
