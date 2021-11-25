@@ -58,6 +58,8 @@ Vue Router 是 [Vue.js (opens new window)](http://cn.vuejs.org/)官方的路由�
 
    ![image-20211114134625629](.\image-20211114134625629.png)
 
+   *注意事项：const router=new VueRouter({routes:routers})   路由不生效，需要将路由表赋值给变量routes*
+
 4. 使用，进行路由跳转
 
    [编程式的导航 | Vue Router (vuejs.org)](https://router.vuejs.org/zh/guide/essentials/navigation.html)
