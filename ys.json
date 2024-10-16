@@ -5,36 +5,29 @@
       "name": "饭太硬"
     },
     {
-      "url": "http://肥猫.com/",
+      "url": "http://我不是.肥猫.live/接口禁止贩卖",
       "name": "肥猫"
     },
     {
-      "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/18.json",
-      "name": "01 18"
+      "url":"https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
+      "name":"PG库"
     },
     {
-      "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/Huhujun线路.json",
-      "name": "02 Huhujun线路"
+      "url":"http://tv.nxog.top/m/",
+      "name":"讴歌"
     },
     {
-      "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/二哈18+.json",
-      "name": "03 二哈18+"
+      "url":"https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json",
+      "name":"小米"
     },
     {
-      "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/蜂蜜在线.json",
-      "name": "04 蜂蜜在线"
+      "url":"http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+      "name":"王小二"
     },
     {
-      "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/星云线路.json",
-      "name": "星云线路"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/扛把子线路.json",
-      "name": "扛把子线路"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/浮力yyfxz1.json",
-      "name": "♊浮力yyfxz1[18+]"
+      "url":"http://ok321.top/tv",
+      "name":"OK"
     }
+    
   ]
 }
