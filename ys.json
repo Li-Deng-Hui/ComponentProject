@@ -35,6 +35,10 @@
     {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/config.json",
       "name": "测试"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/app.json",
+      "name": "测试1"
     }
   ]
 }
