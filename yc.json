@@ -45,8 +45,12 @@
       "name": "测试"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/app.json",
+      "url": "https://wget.la/https://raw.githubusercontent.com/cyao2q/files/master/m.json",
       "name": "测试1"
+    },
+    {
+      "url": "https://wget.la/https://raw.githubusercontent.com/cyao2q/files/master/n.json",
+      "name": "测试2"
     },
     {
       "url":"https://github.moeyy.xyz/https://github.com/Li-Deng-Hui/ComponentProject/blob/master/ys.json",
