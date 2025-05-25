@@ -19,17 +19,6 @@
       "filterable": 1
     },
     {
-      "key": "Czzy",
-      "name": " \uD83C\uDF73 厂长资源",
-      "type": 3,
-      "api": "csp_Czzy",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": {
-        "site_url": "https://www.czzy77.com/"
-      }
-    },
-    {
       "key": "Xb6v",
       "name": " \uD83E\uDDFA 新版6V电影网",
       "type": 3,
@@ -37,60 +26,42 @@
       "searchable": 1,
       "filterable": 1
     },
+    {"key":"csp_Xl720","name":"磁力 | 迅雷电影天堂","type":3,"api":"csp_Xl720","searchable":1,"playerType":1,"timeout":120},
+    {"key":"csp_SixV","name":"磁力 | 新6V电影网","type":3,"api":"csp_SixV","searchable":1,"playerType":1,"timeout":120},
+    {"key":"csp_DyGang","name":"磁力 | 电影港","type":3,"api":"csp_DyGang","searchable":1,"playerType":1,"timeout":120},
+    {"key":"csp_Xunlei8","name":"磁力 | 迅雷吧","type":3,"api":"csp_Xunlei8","searchable":1,"playerType":1,"timeout":120,"changeable":0},
+    {"key":"PiaoHua","name":"磁力 | 新飘花电影网","type":3,"api":"csp_PiaoHua","searchable":1,"playerType":1,"timeout":120},
+    {"key":"360","name":"影视 | 360","type":3,"api":"csp_SP360","searchable":1},
     {
       "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
+      "name": "玩偶哥哥",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
+      "ext": "{\"site\": [\"https://www.wogg.net/\",\"https://wogg.xxooo.cf/\"]}"
+    },
+    {
+      "key": "mp4movie",
+      "name": "(js)Mp4电影┃🍚",
+      "api": "https://androidcatvodspider.netlify.app/json/js/mp4movie.js",
+      "timeout": 30,
       "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
-        "danMu": "弹"
-      }
+        "box": "TVBox"
+      },
+      "playerType": 0,
+      "type": 3
     },
     {
-      "key": "NCat",
-      "name": "\uD83D\uDE3C 网飞猫 | 影视",
-      "type": 3,
-      "api": "csp_NCat",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "TvDy",
-      "name": "\uD83D\uDE07 电影天堂 | 影视",
-      "type": 3,
-      "api": "csp_TvDy",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "W55Movie",
-      "name": "\uD83C\uDF9E\uFE0F 555电影 | 搜索×",
-      "type": 3,
-      "api": "csp_W55Movie",
-      "searchable": 0,
-      "filterable": 1
-    },
-    {
-      "key": "DaGongRen",
-      "name": "\uD83D\uDC77\u200D♂\uFE0F 打工人电影 | 影视",
-      "type": 3,
-      "api": "csp_DaGongRen",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "HkTv",
-      "name": "☁\uFE0F TVB云播 | 影视",
-      "type": 3,
-      "api": "csp_HkTv",
-      "searchable": 0,
-      "filterable": 1
+      "key": "nangua",
+      "name": "(js)南瓜影视┃🎃",
+      "api": "https://androidcatvodspider.netlify.app/json/js/nangua.js",
+      "timeout": 30,
+      "ext": {
+        "box": "TVBox"
+      },
+      "playerType": 0,
+      "type": 3
     }
   ],
   "lives": [
