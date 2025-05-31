@@ -31,38 +31,7 @@
     {"key":"csp_DyGang","name":"磁力 | 电影港","type":3,"api":"csp_DyGang","searchable":1,"playerType":1,"timeout":120},
     {"key":"csp_Xunlei8","name":"磁力 | 迅雷吧","type":3,"api":"csp_Xunlei8","searchable":1,"playerType":1,"timeout":120,"changeable":0},
     {"key":"PiaoHua","name":"磁力 | 新飘花电影网","type":3,"api":"csp_PiaoHua","searchable":1,"playerType":1,"timeout":120},
-    {"key":"360","name":"影视 | 360","type":3,"api":"csp_SP360","searchable":1},
-    {
-      "key": "玩偶",
-      "name": "玩偶哥哥",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "{\"site\": [\"https://www.wogg.net/\",\"https://wogg.xxooo.cf/\"]}"
-    },
-    {
-      "key": "mp4movie",
-      "name": "(js)Mp4电影┃🍚",
-      "api": "https://androidcatvodspider.netlify.app/json/js/mp4movie.js",
-      "timeout": 30,
-      "ext": {
-        "box": "TVBox"
-      },
-      "playerType": 0,
-      "type": 3
-    },
-    {
-      "key": "nangua",
-      "name": "(js)南瓜影视┃🎃",
-      "api": "https://androidcatvodspider.netlify.app/json/js/nangua.js",
-      "timeout": 30,
-      "ext": {
-        "box": "TVBox"
-      },
-      "playerType": 0,
-      "type": 3
-    }
+    {"key":"360","name":"影视 | 360","type":3,"api":"csp_SP360","searchable":1}
   ],
   "lives": [
     {
