@@ -152,6 +152,60 @@
       "quickSearch": 1,
       "searchable": 1,
       "type": 1
+    },
+    {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "filterable": 0,
+      "key": "茅台资源站",
+      "name": "茅台资源站",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 1
+    },
+    {
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "filterable": 0,
+      "key": "樱花资源",
+      "name": "樱花资源",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 1
+    },
+    {
+      "api": "https://api.wujinapi.me/api.php/provide/vod",
+      "filterable": 0,
+      "key": "无尽资源",
+      "name": "无尽资源",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 1
+    },
+    {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "filterable": 0,
+      "key": "量子资源",
+      "name": "量子资源",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 1
+    },
+    {
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "filterable": 0,
+      "key": "U库资源",
+      "name": "U库资源",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 1
+    },
+    {
+      "api": "https://www.ikunzy.com/api.php/provide/vod",
+      "filterable": 0,
+      "key": "ikuz库资源",
+      "name": "ikuz库资源",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 1
     }
   ],
   "lives": [
