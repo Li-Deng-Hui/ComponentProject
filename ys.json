@@ -22,6 +22,14 @@
       }
     },
     {
+      "key": "RARBT",
+      "name": "RARBT影视",
+      "type": 3,
+      "api": "csp_RARBT",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
       "key": "Jianpian",
       "name": "\uD83D\uDCC0 荐片 | 视频",
       "type": 3,
