@@ -85,6 +85,10 @@
       "name":"测试1"
     },
     {
+      "url":"https://gh-proxy.com/github.com/Li-Deng-Hui/ComponentProject/blob/master/ys18.json",
+      "name":"自测18"
+    },
+    {
       "url":"https://gh-proxy.com/github.com/Li-Deng-Hui/ComponentProject/blob/master/ys.json",
       "name":"自测"
     }
