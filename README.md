@@ -1,5 +1,6 @@
-
 ## 自用仓库
+
+https://li-deng-hui.github.io/ComponentProject/yc.json
 
 [https://github.com/Li-Deng-Hui/ComponentProject/blob/master/ys.json](https://github.com/Li-Deng-Hui/ComponentProject/blob/master/ys.json)
 
