@@ -9,15 +9,7 @@
       "name": "肥猫"
     },
     {
-      "url": "https://7337.kstore.space/twvip/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json",
-      "name": "天微"
-    },
-    {
-      "url": "https://11256.kstore.space/免费勿传.json",
-      "name": "七星"
-    },
-    {
-      "url":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "url":"https://ghproxy.cfd/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
       "name":"南风"
     },
     {
@@ -87,6 +79,10 @@
     {
       "url":"http://gh.halonice.com/https://github.com/Li-Deng-Hui/ComponentProject/blob/master/ys.json",
       "name":"自测备份"
+    },
+    {
+      "url":"http://gh.halonice.com/https://github.com/Li-Deng-Hui/ComponentProject/blob/master/ys1.json",
+      "name":"自测备份1"
     },
     {
       "url":"https://li-deng-hui.github.io/ComponentProject/ys.json",
