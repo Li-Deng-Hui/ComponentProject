@@ -69,6 +69,10 @@
       "name":"欧歌"
     },
     {
+      "url":"https://7337.kstore.vip/tw.json",
+      "name":"天微"
+    },
+    {
       "url":"https://gitee.com/wang-fan-1/CatVodSpider/raw/main/json/api.json",
       "name":"测试"
     },
