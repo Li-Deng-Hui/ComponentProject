@@ -8,7 +8,7 @@
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "Grysk",
@@ -44,68 +44,6 @@
       "api": "csp_Xb6v",
       "searchable": 1,
       "filterable": 1
-    },
-    {
-      "key": "ikanbot",
-      "name": "爱看机器人",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "filterable": 0,
-      "ext": "{\"box\": \"TVBox\", \"danmu\": false}"
-    },
-    {
-      "key": "NCat",
-      "name": "\uD83D\uDE3C 网飞猫 | 影视",
-      "type": 3,
-      "api": "csp_NCat",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "TvDy",
-      "name": "\uD83D\uDE07 电影天堂 | 影视",
-      "type": 3,
-      "api": "csp_TvDy",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "W55Movie",
-      "name": "\uD83C\uDF9E\uFE0F 555电影 | 搜索×",
-      "type": 3,
-      "api": "csp_W55Movie",
-      "searchable": 0,
-      "filterable": 1
-    },
-    {
-      "key": "XuanFeng",
-      "name": "旋风|广告",
-      "type": 3,
-      "api": "csp_XuanFeng",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "ChangZhang",
-      "name": "厂长影视",
-      "type": 3,
-      "api": "csp_ChangZhang",
-      "searchable": "1",
-      "filterable": "0",
-      "changeable": 0,
-      "ext": {}
-    },
-    {
-      "key": "Cfkj",
-      "name": " \uD83E\uDD55 金牌影院",
-      "type": 3,
-      "api": "csp_Cfkj",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": {
-        "filter": "https://gitee.com/wang-fan-1/CatVodSpider/raw/main/json/titles/filters_cfkj.json"
-      }
     },
     {
       "api": "https://api.yzzy-api.com/inc/apijson.php",
@@ -335,7 +273,7 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "./json/market.json"
+      "ext": "./market.json"
     },
     {
       "key": "push_agent",
