@@ -1,12 +1,20 @@
 {
   "urls": [
     {
-      "url": "http://www.饭太硬.com/tv/",
+      "url": "http://www.饭太硬.com/tv",
       "name": "饭太硬"
     },
     {
       "url": "http://肥猫.com/",
       "name": "肥猫"
+    },
+    {
+      "url":"https://7337.kstore.vip/tw.json",
+      "name":"天微"
+    },
+    {
+      "url":"https://7337.kstore.vip/qxys/禁止传播.json",
+      "name":"七星"
     },
     {
       "url":"https://ghproxy.cfd/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
@@ -38,14 +46,14 @@
     },
     {
       "url": "https://100km.top/0",
-      "name": "零一"
+      "name": "Ray"
     },
     {
-      "url": "https://ghproxy.cfd/https:/raw.githubusercontent.com/zhixc/CatVodTVSpider/main/config.json",
+      "url": "https://gh-proxy.org/https:/raw.githubusercontent.com/zhixc/CatVodTVSpider/main/config.json",
       "name": "磁力"
     },
     {
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
       "name": "ONE"
     },
     {
@@ -53,7 +61,7 @@
       "name":"环宇轩"
     },
     {
-      "url":"https://la.kstore.dev/download/2863/01.txt",
+      "url":"https://9877.kstore.space/AnotherD/api.json",
       "name":"潇洒"
     },
     {
@@ -65,20 +73,28 @@
       "name":"小虎斑"
     },
     {
-      "url":"https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp&mz=index&jar=index&123&b=%E6%AC%A7%E6%AD%8Ctkh",
+      "url":"http://miqk.cc/小米/DEMO.json",
+      "name":"小米"
+    },
+    {
+      "url":"http://我不是.摸鱼儿.com",
+      "name":"摸鱼儿"
+    },
+    {
+      "url":"http://tv.nxog.top/m/",
       "name":"欧歌"
     },
     {
-      "url":"https://7337.kstore.vip/tw.json",
-      "name":"天微"
+      "url":"http://home.jundie.top:81/top98.json",
+      "name":"俊佬"
     },
     {
-      "url":"https://andoridspidermt.netlify.app/json/index.json",
-      "name":"测试"
+      "url":"https://yydsys.netlify.app/config.json",
+      "name":"多多"
     },
     {
-      "url":"https://andoridspidermt.netlify.app/json/index2.json",
-      "name":"测试1"
+      "url":"https://gh-proxy.org/https:/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "name":"香雅晴"
     },
     {
       "url":"http://gh.halonice.com/https://github.com/Li-Deng-Hui/ComponentProject/blob/master/ys.json",

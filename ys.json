@@ -297,6 +297,69 @@
       "type": 1
     },
     {
+      "api":"https://p2100.net/api.php/provide/vod",
+      "filterable": 0,
+      "key": "飘零资源",
+      "name": "飘零资源",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 1
+    },
+    {
+      "api":"https://tyyszy.com/api.php/provide/vod",
+      "filterable": 0,
+      "key": "天涯资源",
+      "name": "天涯资源",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 1
+    },
+    {
+      "api":"https://jszyapi.com/api.php/provide/vod",
+      "filterable": 0,
+      "key": "极速资源",
+      "name": "极速资源",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 1
+    },
+    {
+      "api":"https://api.zuidapi.com/api.php/provide/vod",
+      "filterable": 0,
+      "key": "最大资源",
+      "name": "最大资源",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 1
+    },
+    {
+      "api":"https://api.apibdzy.com/api.php/provide/vod",
+      "filterable": 0,
+      "key": "百度云资源",
+      "name": "百度云资源",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 1
+    },
+    {
+      "api":"https://hhzyapi.com/api.php/provide/vod",
+      "filterable": 0,
+      "key": "豪华资源",
+      "name": "豪华资源",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 1
+    },
+    {
+      "api":"https://wwzy.tv/api.php/provide/vod",
+      "filterable": 0,
+      "key": "旺旺短剧",
+      "name": "旺旺短剧",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 1
+    },
+    {
       "key": "YHDM",
       "name": "樱花动漫",
       "type": 3,
@@ -335,7 +398,7 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "./json/market.json"
+      "ext": "./market.json"
     },
     {
       "key": "push_agent",
