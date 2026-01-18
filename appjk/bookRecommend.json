@@ -1,0 +1,16 @@
+{
+    "list": [
+        {
+            "name": "头狼",
+            "coverUrl": "https://www.qishuxia.com/files/article/image/316/316574/316574s.jpg",
+            "collection": [
+                {
+                    "name": "头狼",
+                    "coverUrl": "https://www.qishuxia.com/files/article/image/316/316574/316574s.jpg",
+                    "source_url": "https://caiji.maotaizy.cc/api.php/provide/vod",
+                    "vod_id": "117999"
+                }
+            ]
+        }
+    ]
+}

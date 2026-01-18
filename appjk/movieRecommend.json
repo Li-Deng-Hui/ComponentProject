@@ -1,0 +1,16 @@
+{
+    "list": [
+        {
+            "name": "变形金刚",
+            "coverUrl": "https://mtzy2.com/upload/vod/20260107-1/b656459e31abfdd24b8a84991272d8ab.jpg",
+            "collection": [
+                {
+                    "name": "变形金刚大电影",
+                    "coverUrl": "https://mtzy2.com/upload/vod/20260107-1/b656459e31abfdd24b8a84991272d8ab.jpg",
+                    "source_url": "https://caiji.maotaizy.cc/api.php/provide/vod",
+                    "vod_id": "117999"
+                }
+            ]
+        }
+    ]
+}
