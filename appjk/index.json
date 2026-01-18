@@ -14,8 +14,8 @@
             }
         ]
     },
-    "book": {
-        "recommend": "bookRecommend.json",
+    "novel": {
+        "recommend": "novelRecommend.json",
         "apis": [
             {
                 "key": "速播资源",
