@@ -4,22 +4,22 @@
     "list": [
       {
         "name": "電視版",
-        "url": "https://gh-proxy.org/https://github.com/FongMi/Release/raw/fongmi/apk/leanback-armeabi_v7a.apk",
+        "url": "https://cdn.gh-proxy.org/https://github.com/FongMi/Release/raw/fongmi/apk/leanback-armeabi_v7a.apk",
         "version": "v7a"
       },
       {
         "name": "電視版",
-        "url": "https://gh-proxy.org/https://github.com/FongMi/Release/raw/fongmi/apk/leanback-arm64_v8a.apk",
+        "url": "https://cdn.gh-proxy.org/https://github.com/FongMi/Release/raw/fongmi/apk/leanback-arm64_v8a.apk",
         "version": "v8a"
       },
       {
         "name": "行動版",
-        "url": "https://gh-proxy.org/https://github.com/FongMi/Release/raw/fongmi/apk/mobile-armeabi_v7a.apk",
+        "url": "https://cdn.gh-proxy.org/https://github.com/FongMi/Release/raw/fongmi/apk/mobile-armeabi_v7a.apk",
         "version": "v7a"
       },
       {
         "name": "行動版",
-        "url": "https://gh-proxy.org/https://github.com/FongMi/Release/raw/fongmi/apk/mobile-arm64_v8a.apk",
+        "url": "https://cdn.gh-proxy.org/https://github.com/FongMi/Release/raw/fongmi/apk/mobile-arm64_v8a.apk",
         "version": "v8a"
       }
     ]
