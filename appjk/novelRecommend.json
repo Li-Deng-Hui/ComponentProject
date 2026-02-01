@@ -1,16 +1,11 @@
 {
     "list": [
         {
-            "name": "头狼",
-            "coverUrl": "https://www.qishuxia.com/files/article/image/316/316574/316574s.jpg",
-            "collection": [
-                {
-                    "name": "头狼",
-                    "coverUrl": "https://www.qishuxia.com/files/article/image/316/316574/316574s.jpg",
-                    "source_url": "https://caiji.maotaizy.cc/api.php/provide/vod",
-                    "vod_id": "117999"
-                }
-            ]
+            "bookId": "t_0",
+            "bookName": "头狼",
+            "bookPic": "https://pic.8080txt.com/d/file/pic/2021/08/07/xeex4e2ccc4.jpg",
+            "bookYear": "2021",
+            "bookUrl": "https://down.8080txt.com/d/file/down/2021/08/07/%E5%A4%B4%E7%8B%BC.txt"
         }
     ]
 }

@@ -1,0 +1,39 @@
+{
+    "list": [
+        {
+            "appId": "t_0",
+            "appName": "综合应用",
+            "appYear": "2026",
+            "appPic": "",
+            "appUrl": "https://cdn.gh-proxy.org/https://github.com/FongMi/Release/raw/fongmi/apk/leanback-armeabi_v7a.apk"
+        },
+        {
+            "appId": "t_1",
+            "appName": "電視版v7a",
+            "appYear": "2026",
+            "appPic": "",
+            "appUrl": "https://cdn.gh-proxy.org/https://github.com/FongMi/Release/raw/fongmi/apk/leanback-armeabi_v7a.apk"
+        },
+        {
+            "appId": "t_2",
+            "appName": "電視版v8a",
+            "appYear": "2026",
+            "appPic": "",
+            "appUrl": "https://cdn.gh-proxy.org/https://github.com/FongMi/Release/raw/fongmi/apk/leanback-arm64_v8a.apk"
+        },
+        {
+            "appId": "t_3",
+            "appName": "行動版v7a",
+            "appYear": "2026",
+            "appPic": "",
+            "appUrl": "https://cdn.gh-proxy.org/https://github.com/FongMi/Release/raw/fongmi/apk/mobile-armeabi_v7a.apk"
+        },
+        {
+            "appId": "t_4",
+            "appName": "行動版v8a",
+            "appYear": "2026",
+            "appPic": "",
+            "appUrl": "https://cdn.gh-proxy.org/https://github.com/FongMi/Release/raw/fongmi/apk/mobile-arm64_v8a.apk"
+        }
+    ]
+}
