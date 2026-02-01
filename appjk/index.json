@@ -1,6 +1,6 @@
 {
     "movie": {
-        "recommend": "https://hk.gh-proxy.org/https://github.com/Li-Deng-Hui/ComponentProject/blob/master/appjk/movieRecommend.json",
+        "recommend": "https://cdn.gh-proxy.org/https://github.com/Li-Deng-Hui/ComponentProject/blob/master/appjk/movieRecommend.json",
         "apis": [
             {
                 "key": "影视资源",
@@ -20,7 +20,7 @@
         ]
     },
     "novel": {
-        "recommend": "https://hk.gh-proxy.org/https://github.com/Li-Deng-Hui/ComponentProject/blob/master/appjk/novelRecommend.json",
+        "recommend": "https://cdn.gh-proxy.org/https://github.com/Li-Deng-Hui/ComponentProject/blob/master/appjk/novelRecommend.json",
         "apis": [
             {
                 "key": "小说资源",
@@ -30,7 +30,7 @@
         ]
     },
     "music": {
-        "recommend": "https://hk.gh-proxy.org/https://github.com/Li-Deng-Hui/ComponentProject/blob/master/appjk/musicRecommend.json",
+        "recommend": "https://cdn.gh-proxy.org/https://github.com/Li-Deng-Hui/ComponentProject/blob/master/appjk/musicRecommend.json",
         "apis": [
             {
                 "key": "音乐资源",
@@ -40,7 +40,7 @@
         ]
     },
     "comic": {
-        "recommend": "https://hk.gh-proxy.org/https://github.com/Li-Deng-Hui/ComponentProject/blob/master/appjk/comicRecommend.json",
+        "recommend": "https://cdn.gh-proxy.org/https://github.com/Li-Deng-Hui/ComponentProject/blob/master/appjk/comicRecommend.json",
         "apis": [
             {
                 "key": "漫画资源",
@@ -50,7 +50,7 @@
         ]
     },
     "app": {
-        "recommend": "https://hk.gh-proxy.org/https://github.com/Li-Deng-Hui/ComponentProject/blob/master/appjk/appRecommend.json",
+        "recommend": "https://cdn.gh-proxy.org/https://github.com/Li-Deng-Hui/ComponentProject/blob/master/appjk/appRecommend.json",
         "apis": [
             {
                 "key": "应用资源",

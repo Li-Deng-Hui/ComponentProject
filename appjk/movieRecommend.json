@@ -1,11 +1,11 @@
 {
     "list": [
         {
-            "vodId": "t_0",
-            "vodName": "变形金刚",
-            "vodPic": "https://pic20tchehk.679ks.com/350/upload/vod/20211230-5/9ddcab9735a9b14b5b34de38eccd24c9.jpg",
-            "vodYear": "2007",
-            "vodPlayUrl": "正片$https://jkchee.679ks.com/cheeoo/cache/ff/61f3505e297301c6a4c7775b29f2e101.m3u8"
+            "vod_id": "t_0",
+            "vod_name": "变形金刚",
+            "vod_pic": "https://pic20tchehk.679ks.com/350/upload/vod/20211230-5/9ddcab9735a9b14b5b34de38eccd24c9.jpg",
+            "vod_year": "2007",
+            "vod_play_url": "正片$https://jkchee.679ks.com/cheeoo/cache/ff/61f3505e297301c6a4c7775b29f2e101.m3u8"
         }
     ]
 }
