@@ -5,7 +5,7 @@
             {
                 "key": "影视资源",
                 "name": "影视资源",
-                "api": "http://192.168.31.194:8094/movie"
+                "api": "http://192.168.31.194:8094/movie/api/provide/vod"
             },
             {
                 "key": "T4-qiyi",
@@ -840,7 +840,7 @@
             {
                 "key": "小说资源",
                 "name": "小说资源",
-                "api": "http://192.168.31.194:8094/novel"
+                "api": "http://192.168.31.194:8094/novel/api/provide/vod"
             }
         ]
     },
@@ -850,7 +850,7 @@
             {
                 "key": "音乐资源",
                 "name": "音乐资源",
-                "api": "http://192.168.31.194:8094/music"
+                "api": "http://192.168.31.194:8094/music/api/provide/vod"
             }
         ]
     },
@@ -860,7 +860,7 @@
             {
                 "key": "漫画资源",
                 "name": "漫画资源",
-                "api": "http://192.168.31.194:8094/comic"
+                "api": "http://192.168.31.194:8094/comic/api/provide/vod"
             }
         ]
     },
@@ -870,7 +870,7 @@
             {
                 "key": "应用资源",
                 "name": "应用资源",
-                "api": "http://192.168.31.194:8094/app"
+                "api": "http://192.168.31.194:8094/app/api/provide/vod"
             }
         ]
     }
