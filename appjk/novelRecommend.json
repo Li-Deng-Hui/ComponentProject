@@ -1,11 +1,11 @@
 {
     "list": [
         {
-            "bookId": "t_0",
-            "bookName": "头狼",
-            "bookPic": "https://pic.8080txt.com/d/file/pic/2021/08/07/xeex4e2ccc4.jpg",
-            "bookYear": "2021",
-            "bookUrl": "https://down.8080txt.com/d/file/down/2021/08/07/%E5%A4%B4%E7%8B%BC.txt"
+            "id": "t_0",
+            "name": "头狼",
+            "pic": "https://pic.8080txt.com/d/file/pic/2021/08/07/xeex4e2ccc4.jpg",
+            "updateTime": "2021",
+            "contentUrl": "https://down.8080txt.com/d/file/down/2021/08/07/%E5%A4%B4%E7%8B%BC.txt"
         }
     ]
 }
