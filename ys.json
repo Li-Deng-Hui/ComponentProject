@@ -37,24 +37,6 @@
       "type": 1
     },
     {
-      "api": "https://wolongzyw.com/api.php/provide/vod",
-      "filterable": 0,
-      "key": "卧龙资源",
-      "name": "✴卧龙资源",
-      "quickSearch": 1,
-      "searchable": 1,
-      "type": 1
-    },
-    {
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod",
-      "filterable": 0,
-      "key": "非凡影视",
-      "name": "✴️非凡影视",
-      "quickSearch": 1,
-      "searchable": 1,
-      "type": 1
-    },
-    {
       "api": "http://www.mdzyapi.com/api.php/provide/vod",
       "filterable": 0,
       "key": "魔都资源",
@@ -95,24 +77,6 @@
       "filterable": 0,
       "key": "索尼采集",
       "name": "🥤索尼影视",
-      "quickSearch": 1,
-      "searchable": 1,
-      "type": 1
-    },
-    {
-      "api": "https://app.bfzyapi.com/api.php/provide/vod",
-      "filterable": 0,
-      "key": "暴风采集",
-      "name": "🌪️暴风影音",
-      "quickSearch": 1,
-      "searchable": 1,
-      "type": 1
-    },
-    {
-      "api": "https://360zy.com/api.php/provide/vod",
-      "filterable": 0,
-      "key": "360资源",
-      "name": "360资源",
       "quickSearch": 1,
       "searchable": 1,
       "type": 1
@@ -163,15 +127,6 @@
       "type": 1
     },
     {
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "filterable": 0,
-      "key": "ikun资源",
-      "name": "ikun资源",
-      "quickSearch": 1,
-      "searchable": 1,
-      "type": 1
-    },
-    {
       "api": "https://caiji.dyttzyapi.com/api.php/provide/vod",
       "filterable": 0,
       "key": "电影天堂",
@@ -185,15 +140,6 @@
       "filterable": 0,
       "key": "OK资源",
       "name": "OK资源",
-      "quickSearch": 1,
-      "searchable": 1,
-      "type": 1
-    },
-    {
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-      "filterable": 0,
-      "key": "新浪资源",
-      "name": "新浪资源",
       "quickSearch": 1,
       "searchable": 1,
       "type": 1
@@ -253,15 +199,6 @@
       "type": 1
     },
     {
-      "api": "https://api.apibdzy.com/api.php/provide/vod",
-      "filterable": 0,
-      "key": "百度云资源",
-      "name": "百度云资源",
-      "quickSearch": 1,
-      "searchable": 1,
-      "type": 1
-    },
-    {
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "filterable": 0,
       "key": "豪华资源",
@@ -275,15 +212,6 @@
       "filterable": 0,
       "key": "旺旺短剧",
       "name": "旺旺短剧",
-      "quickSearch": 1,
-      "searchable": 1,
-      "type": 1
-    },
-    {
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "filterable": 0,
-      "key": "如意资源",
-      "name": "如意资源",
       "quickSearch": 1,
       "searchable": 1,
       "type": 1
@@ -307,15 +235,6 @@
       "type": 1
     },
     {
-      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
-      "filterable": 0,
-      "key": "爱奇艺资源",
-      "name": "爱奇艺资源",
-      "quickSearch": 1,
-      "searchable": 1,
-      "type": 1
-    },
-    {
       "api": "https://caiji.dbzy5.com/api.php/provide/vod",
       "filterable": 0,
       "key": "豆瓣资源",
@@ -334,42 +253,6 @@
       "type": 1
     },
     {
-      "api": "https://aosikazy.com/api.php/provide/vod",
-      "filterable": 0,
-      "key": "奥斯卡资源",
-      "name": "奥斯卡资源",
-      "quickSearch": 1,
-      "searchable": 1,
-      "type": 1
-    },
-    {
-      "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
-      "filterable": 0,
-      "key": "建安资源",
-      "name": "建安资源",
-      "quickSearch": 1,
-      "searchable": 1,
-      "type": 1
-    },
-    {
-      "api": "https://api.yparse.com/api/json",
-      "filterable": 0,
-      "key": "云解析资源",
-      "name": "云解析资源",
-      "quickSearch": 1,
-      "searchable": 1,
-      "type": 1
-    },
-    {
-      "api": "https://www.caiji.cyou/api.php/provide/vod",
-      "filterable": 0,
-      "key": "789官采资源",
-      "name": "789官采资源",
-      "quickSearch": 1,
-      "searchable": 1,
-      "type": 1
-    },
-    {
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
       "filterable": 0,
       "key": "猫眼资源",
@@ -379,28 +262,19 @@
       "type": 1
     },
     {
-      "api": "https://zy.jinchancaiji.com/api.php/provide/vod",
+      "api": "https://api.wsyzy.net/api.php/provide/vod",
       "filterable": 0,
-      "key": "金蝉官采影视",
-      "name": "金蝉官采影视",
+      "key": "无水印资源网",
+      "name": "无水印资源网",
       "quickSearch": 1,
       "searchable": 1,
       "type": 1
     },
     {
-      "api": "https://zy.sh0o.cn/api.php/provide/vod",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
       "filterable": 0,
-      "key": "山海官方资源",
-      "name": "山海官方资源",
-      "quickSearch": 1,
-      "searchable": 1,
-      "type": 1
-    },
-    {
-      "api": "https://caiji.kczyapi.com/api.php/provide/vod",
-      "filterable": 0,
-      "key": "快车资源",
-      "name": "快车资源",
+      "key": "影剧资源网",
+      "name": "影剧资源网",
       "quickSearch": 1,
       "searchable": 1,
       "type": 1

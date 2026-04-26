@@ -98,6 +98,24 @@
                 "type": 1
             },
             {
+                "api": "https://api.ukuapi88.com/api.php/provide/vod",
+                "filterable": 0,
+                "key": "U库资源",
+                "name": "U库资源",
+                "quickSearch": 1,
+                "searchable": 1,
+                "type": 1
+            },
+            {
+                "api": "https://caiji.dyttzyapi.com/api.php/provide/vod",
+                "filterable": 0,
+                "key": "电影天堂",
+                "name": "电影天堂",
+                "quickSearch": 1,
+                "searchable": 1,
+                "type": 1
+            },
+            {
                 "api": "https://api.okzyw.net/api.php/provide/vod",
                 "filterable": 0,
                 "key": "OK资源",
@@ -107,10 +125,19 @@
                 "type": 1
             },
             {
-                "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+                "api": "https://cj.yayazy.net/api.php/provide/vod",
                 "filterable": 0,
-                "key": "新浪资源",
-                "name": "新浪资源",
+                "key": "鸭鸭资源网",
+                "name": "鸭鸭资源网",
+                "quickSearch": 1,
+                "searchable": 1,
+                "type": 1
+            },
+            {
+                "api": "https://api.niuniuzy.me/api.php/provide/vod",
+                "filterable": 0,
+                "key": "牛牛资源网",
+                "name": "牛牛资源网",
                 "quickSearch": 1,
                 "searchable": 1,
                 "type": 1
@@ -170,19 +197,19 @@
                 "type": 1
             },
             {
-                "api": "https://subocj.com/api.php/provide/vod",
+                "api": "https://jyzyapi.com/provide/vod",
                 "filterable": 0,
-                "key": "速播资源",
-                "name": "速播资源",
+                "key": "金鹰资源",
+                "name": "金鹰资源",
                 "quickSearch": 1,
                 "searchable": 1,
                 "type": 1
             },
             {
-                "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
+                "api": "https://subocj.com/api.php/provide/vod",
                 "filterable": 0,
-                "key": "爱奇艺资源",
-                "name": "爱奇艺资源",
+                "key": "速播资源",
+                "name": "速播资源",
                 "quickSearch": 1,
                 "searchable": 1,
                 "type": 1
@@ -215,19 +242,19 @@
                 "type": 1
             },
             {
-                "api": "https://caiji.kczyapi.com/api.php/provide/vod",
+                "api": "https://api.wsyzy.net/api.php/provide/vod",
                 "filterable": 0,
-                "key": "快车资源",
-                "name": "快车资源",
+                "key": "无水印资源网",
+                "name": "无水印资源网",
                 "quickSearch": 1,
                 "searchable": 1,
                 "type": 1
             },
             {
-                "api": "https://api.wsyzy.net/api.php/provide/vod",
+                "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
                 "filterable": 0,
-                "key": "无水印资源网",
-                "name": "无水印资源网",
+                "key": "影剧资源网",
+                "name": "影剧资源网",
                 "quickSearch": 1,
                 "searchable": 1,
                 "type": 1
@@ -278,15 +305,6 @@
                 "type": 1
             },
             {
-                "api": "https://api.souavzy.vip/api.php/provide/vod",
-                "filterable": 0,
-                "key": "搜av资源",
-                "name": "搜av资源18",
-                "quickSearch": 1,
-                "searchable": 1,
-                "type": 1
-            },
-            {
                 "api": "https://naixxzy.com/api.php/provide/vod",
                 "filterable": 0,
                 "key": "奶香香资源",
@@ -296,19 +314,10 @@
                 "type": 1
             },
             {
-                "api": "https://xzybb1.com/api.php/provide/vod",
+                "api": "https://slapibf.com/api.php/provide/vod/",
                 "filterable": 0,
-                "key": "幸资源",
-                "name": "幸资源18",
-                "quickSearch": 1,
-                "searchable": 1,
-                "type": 1
-            },
-            {
-                "api": "https://91jpzyw.com/api.php/provide/vod",
-                "filterable": 0,
-                "key": "91精品资源",
-                "name": "91精品资源18",
+                "key": "森林资源",
+                "name": "森林资源18",
                 "quickSearch": 1,
                 "searchable": 1,
                 "type": 1
@@ -372,6 +381,24 @@
                 "filterable": 0,
                 "key": "玉兔资源",
                 "name": "玉兔资源18",
+                "quickSearch": 1,
+                "searchable": 1,
+                "type": 1
+            },
+            {
+                "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+                "filterable": 0,
+                "key": "色猫资源",
+                "name": "色猫资源18",
+                "quickSearch": 1,
+                "searchable": 1,
+                "type": 1
+            },
+            {
+                "api": "https://aosikazy.com/api.php/provide/vod/",
+                "filterable": 0,
+                "key": "奥斯卡资源",
+                "name": "奥斯卡资源18",
                 "quickSearch": 1,
                 "searchable": 1,
                 "type": 1
