@@ -47,10 +47,19 @@
       "filterable": 1
     },
     {
-      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "api": "https://api.yyzy-tv.vip/inc/apijson.php",
       "filterable": 0,
       "key": "优质资源库",
       "name": "优质资源库",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 1
+    },
+    {
+      "api": "https://caiji.xgzyapi.com/api.php/provide/vod",
+      "filterable": 0,
+      "key": "西瓜资源",
+      "name": "西瓜资源",
       "quickSearch": 1,
       "searchable": 1,
       "type": 1
