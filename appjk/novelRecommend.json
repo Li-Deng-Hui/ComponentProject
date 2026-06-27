@@ -1,11 +1,88 @@
 {
     "list": [
         {
-            "id": "t_0",
-            "name": "头狼",
-            "pic": "https://pic.8080txt.com/d/file/pic/2021/08/07/xeex4e2ccc4.jpg",
-            "updateTime": "2021",
-            "contentUrl": "https://down.8080txt.com/d/file/down/2021/08/07/%E5%A4%B4%E7%8B%BC.txt"
+            "id": "novel_1",
+            "name": "安定此心：我当精神科医生的12000天",
+            "pic": "https://img1.doubanio.com/view/subject/s/public/s35355919.jpg",
+            "updateTime": "姜涛 / 2026-1 / 中信出版集团 / 58.00元 / 平装",
+            "contentUrl": "https://book.douban.com/subject/37502923/"
+        },
+        {
+            "id": "novel_2",
+            "name": "抄写员巴托比",
+            "pic": "https://img1.doubanio.com/view/subject/s/public/s35443099.jpg",
+            "updateTime": "[美] 赫尔曼·梅尔维尔 / 2026-4-1 / 陕西师范大学出版总社 / 32.00元 / 平装",
+            "contentUrl": "https://book.douban.com/subject/38392174/"
+        },
+        {
+            "id": "novel_3",
+            "name": "真事隐：康熙废储与正史虚构",
+            "pic": "https://img3.doubanio.com/view/subject/s/public/s35381053.jpg",
+            "updateTime": "孙立天 / 2026-2 / 中华书局 / 78.00元 / 精装",
+            "contentUrl": "https://book.douban.com/subject/37920184/"
+        },
+        {
+            "id": "novel_4",
+            "name": "大厂小民：我在互联网公司的1480天",
+            "pic": "https://img3.doubanio.com/view/subject/s/public/s35437907.jpg",
+            "updateTime": "张小满 / 2026-3 / 文汇出版社 / 59 / 平装",
+            "contentUrl": "https://book.douban.com/subject/38208793/"
+        },
+        {
+            "id": "novel_5",
+            "name": "永结无情游",
+            "pic": "https://img2.doubanio.com/view/subject/s/public/s35475691.jpg",
+            "updateTime": "周嘉宁 / 2026-4 / 人民文学出版社 / 59 / 精装",
+            "contentUrl": "https://book.douban.com/subject/38367806/"
+        },
+        {
+            "id": "novel_6",
+            "name": "咸的玩笑",
+            "pic": "https://img3.doubanio.com/view/subject/s/public/s35334352.jpg",
+            "updateTime": "刘震云 / 2025-12 / 人民文学出版社 / 69.00元 / 精装",
+            "contentUrl": "https://book.douban.com/subject/37833272/"
+        },
+        {
+            "id": "novel_7",
+            "name": "天色已晚",
+            "pic": "https://img1.doubanio.com/view/subject/s/public/s35354128.jpg",
+            "updateTime": "[爱尔兰]克莱尔·吉根 / 2026-1 / 太白文艺出版社 / 55.00元 / 精装",
+            "contentUrl": "https://book.douban.com/subject/37890167/"
+        },
+        {
+            "id": "novel_8",
+            "name": "刚刚离开的世界",
+            "pic": "https://img9.doubanio.com/view/subject/s/public/s35411484.jpg",
+            "updateTime": "[韩] 金草叶 / 2026-3-29 / 国文出版社 / 58 / 平装",
+            "contentUrl": "https://book.douban.com/subject/37447242/"
+        },
+        {
+            "id": "novel_9",
+            "name": "挽救计划",
+            "pic": "https://img9.doubanio.com/view/subject/s/public/s35397354.jpg",
+            "updateTime": "[美] 安迪·威尔 / 2026-3 / 译林出版社 / 68 / 平装",
+            "contentUrl": "https://book.douban.com/subject/38210508/"
+        },
+        {
+            "id": "novel_10",
+            "name": "哈萨比斯：谷歌AI之脑",
+            "pic": "https://img1.doubanio.com/view/subject/s/public/s35521519.jpg",
+            "updateTime": "塞巴斯蒂安·马拉比 / 2026-3 / 浙江科学技术出版社 / 129.90元 / 平装",
+            "contentUrl": "https://book.douban.com/subject/38357884/"
+        },
+        {
+            "id": "novel_11",
+            "name": "给一个未出生孩子的信",
+            "pic": "https://img1.doubanio.com/view/subject/s/public/s35465858.jpg",
+            "updateTime": "[意] 奥丽娅娜·法拉奇 / 2026-5 / 九州出版社 / 66.00 / 精装",
+            "contentUrl": "https://book.douban.com/subject/38401629/"
+        },
+        {
+            "id": "novel_12",
+            "name": "外套",
+            "pic": "https://img1.doubanio.com/view/subject/s/public/s35443128.jpg",
+            "updateTime": "[俄罗斯] 果戈理 / 2026-4-1 / 陕西师范大学出版总社有限公司 / 32.00元 / 平装",
+            "contentUrl": "https://book.douban.com/subject/38392257/"
         }
     ]
 }

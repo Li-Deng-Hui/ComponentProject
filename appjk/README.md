@@ -1,0 +1,110 @@
+# 规则文档
+
+## 规则模板说明
+
+```json
+{
+  "id": "规则id",
+  "name": "规则名称",
+  "description": "规则说明",
+  "baseUrl": "基础地址https://api.example.com",
+  "category": {
+    "url": "分类列表请求地址https://api.example.com/categories",
+    "requestMethod": "请求类型okhttp/webview",
+    "responseType": "响应返回类型html/json",
+    "parseType": "解析表达式的方式xpath,css,regex",
+    "listExpr": "列表表达式",
+    "itemExpr": "列表项表达式",
+    "nameExpr": "列表项名称表达式",
+    "valueExpr": "列表项值表达式",
+    "jsExpr": "js脚本输入listHtml返回[{name:'',value:''}]"
+  },
+  "home": {
+    "url": "首页/推荐页请求地址https://api.example.com/home",
+    "requestMethod": "请求类型okhttp/webview",
+    "responseType": "响应返回类型html/json",
+    "parseType": "解析表达式的方式xpath,css,regex",
+    "listExpr": "列表表达式",
+    "itemExpr": "列表项表达式",
+    "nameExpr": "列表项名称表达式",
+    "urlExpr": "列表项链接表达式 id或者列表项链接",
+    "imgExpr": "列表项图片表达式",
+    "authorExpr": "列表项作者表达式",
+    "tagExpr": "列表项标签表达式",
+    "descExpr": "列表项描述表达式",
+    "contentExpr": "列表项内容表达式,链接地址或文本内容,如果直接为集数或者章节数据，数据格式$$$区分数据源$$区分数据源名称和集数串#区分集数$区分名称和播放链接,漫画类的播放链接是多张图片使用英文逗号分割",
+    "statusExpr": "列表项状态表达式",
+    "scoreExpr": "列表项评分表达式",
+    "updateTimeExpr": "列表项更新时间表达式",
+    "yearExpr": "列表项年份表达式",
+    "jsExpr": "js脚本输入listHtml返回[{name:'',url:'',img:'',author:'',tag:'',desc:'',content:'',status:'',score:'',updateTime:'yyyy-MM-dd HH:mm:ss',year:''}]"
+  },
+  "categoryList": {
+    "url": "分类数据请求地址:https://api.example.com/list?category={categoryId}&page={page}  categoryId为分类列表项的valueExpr,如果为链接直接替换当前url",
+    "requestMethod": "请求类型okhttp/webview",
+    "responseType": "响应返回类型html/json",
+    "parseType": "解析表达式的方式xpath,css,regex",
+    "listExpr": "列表表达式",
+    "itemExpr": "列表项表达式",
+    "nameExpr": "列表项名称表达式",
+    "urlExpr": "列表项链接表达式",
+    "imgExpr": "列表项图片表达式",
+    "authorExpr": "列表项作者表达式",
+    "tagExpr": "列表项标签表达式",
+    "descExpr": "列表项描述表达式",
+    "contentExpr": "列表项内容表达式,链接地址或文本内容,如果直接为集数或者章节数据，数据格式$$$区分数据源$$区分数据源名称和集数串#区分集数$区分名称和播放链接,漫画类的播放链接是多张图片使用英文逗号分割",
+    "statusExpr": "列表项状态表达式",
+    "scoreExpr": "列表项评分表达式",
+    "updateTimeExpr": "列表项更新时间表达式",
+    "yearExpr": "列表项年份表达式",
+    "jsExpr": "js脚本输入listHtml返回[{name:'',url:'',img:'',author:'',tag:'',desc:'',content:'',status:'',score:'',updateTime:'yyyy-MM-dd HH:mm:ss',year:''}]"
+  },
+  "detail": {
+    "url": "详情页内容请求地址https://api.example.com/detail?id={id} id是上一级contentExpr的值。如果为链接直接替换当前url。如果上层存在详情页面所有值和内容集数,直接使用不再重新请求",
+    "requestMethod": "请求类型okhttp/webview",
+    "responseType": "响应返回类型html/json",
+    "parseType": "解析表达式的方式xpath,css,regex",
+    "nameExpr": "名称表达式",
+    "urlExpr": "链接表达式",
+    "imgExpr": "图片表达式",
+    "authorExpr": "作者表达式",
+    "tagExpr": "标签表达式",
+    "descExpr": "描述表达式",
+    "contentExpr": "内容表达式,链接地址或文本内容,如果直接为集数或者章节数据，数据格式$$$区分数据源$$区分数据源名称和集数串#区分集数$区分名称和播放链接,漫画类的播放链接是多张图片使用英文逗号分割",
+    "statusExpr": "状态表达式",
+    "scoreExpr": "评分表达式",
+    "updateTimeExpr": "更新时间表达式",
+    "yearExpr": "年份表达式",
+    "jsExpr": "js脚本输入itemHtml返回{name:'',url:'',img:'',author:'',tag:'',desc:'',content:'',status:'',score:'',updateTime:'yyyy-MM-dd HH:mm:ss',year:''}"
+  },
+  "content": {
+    "enabled": true,
+    "url": "https://api.example.com/content?id={id} id 为请求页contentExpr的一个子项。如果是实际播放地址，直接返回。如果是页面的链接，替换当前url",
+    "requestMethod": "请求类型okhttp/webview",
+    "responseType": "响应返回类型html/json",
+    "parseType": "解析表达式的方式xpath,css,regex",
+    "contentExpr": "内容表达式,链接地址或文本内容",
+    "jsExpr": "js脚本输入contentHtml返回content"
+  },
+  "searchList": {
+    "url": "搜索数据请求地址:https://api.example.com/search?keyword={keyword}&page={page}",
+    "requestMethod": "请求类型okhttp/webview",
+    "responseType": "响应返回类型html/json",
+    "parseType": "解析表达式的方式xpath,css,regex",
+    "listExpr": "列表表达式",
+    "itemExpr": "列表项表达式",
+    "nameExpr": "列表项名称表达式",
+    "urlExpr": "列表项链接表达式",
+    "imgExpr": "列表项图片表达式",
+    "authorExpr": "列表项作者表达式",
+    "tagExpr": "列表项标签表达式",
+    "descExpr": "列表项描述表达式",
+    "contentExpr": "列表项内容表达式,链接地址或文本内容,如果直接为集数或者章节数据，数据格式$$$区分数据源$$区分数据源名称和集数串#区分集数$区分名称和播放链接,漫画类的播放链接是多张图片使用英文逗号分割",
+    "statusExpr": "列表项状态表达式",
+    "scoreExpr": "列表项评分表达式",
+    "updateTimeExpr": "列表项更新时间表达式",
+    "yearExpr": "列表项年份表达式",
+    "jsExpr": "js脚本输入listHtml返回[{name:'',url:'',img:'',author:'',tag:'',desc:'',content:'',status:'',score:'',updateTime:'yyyy-MM-dd HH:mm:ss',year:''}]"
+  }
+}
+```

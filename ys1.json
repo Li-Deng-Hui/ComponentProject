@@ -308,6 +308,24 @@
       "type": 1
     },
     {
+      "api": "https://uuzy.me/api.php/provide/vod",
+      "filterable": 0,
+      "key": "uu资源网",
+      "name": "uu资源网",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 1
+    },
+    {
+      "api": "https://98zy.vip/api.php/provide/vod",
+      "filterable": 0,
+      "key": "98资源网",
+      "name": "98资源网",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 1
+    },
+    {
       "api": "https://api.bwzyz.com/api.php/provide/vod",
       "filterable": 0,
       "key": "百万资源",

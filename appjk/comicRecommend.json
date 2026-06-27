@@ -1,11 +1,88 @@
 {
     "list": [
         {
-            "id": "t_0",
-            "name": "我独自升级",
-            "pic": "https://img.haoduoman.com/cover/62694.webp",
-            "updateTime": "2025",
-            "contentUrl": "第一话$https://s2.bzcdn.net/scomic/woduzishengjizhushenhuanghun-dcmedia/0/2-9rte/1.jpg,https://s2.bzcdn.net/scomic/woduzishengjizhushenhuanghun-dcmedia/0/3-hfvk/96.jpg#第二话$https://s2.bzcdn.net/scomic/woduzishengjizhushenhuanghun-dcmedia/0/3-hfvk/1.jpg"
+            "id": "comic_1",
+            "name": "故纸浮生.1-2",
+            "pic": "https://img3.doubanio.com/view/subject/s/public/s35343423.jpg",
+            "updateTime": "",
+            "contentUrl": "https://book.douban.com/subject/37648813/"
+        },
+        {
+            "id": "comic_2",
+            "name": "螃蟹的邀请",
+            "pic": "https://img9.doubanio.com/view/subject/s/public/s35382604.jpg",
+            "updateTime": "",
+            "contentUrl": "https://book.douban.com/subject/37496217/"
+        },
+        {
+            "id": "comic_3",
+            "name": "克旗羊倌",
+            "pic": "https://img9.doubanio.com/view/subject/s/public/s35475634.jpg",
+            "updateTime": "",
+            "contentUrl": "https://book.douban.com/subject/38219559/"
+        },
+        {
+            "id": "comic_4",
+            "name": "枕鱼",
+            "pic": "https://img3.doubanio.com/view/subject/s/public/s35382603.jpg",
+            "updateTime": "",
+            "contentUrl": "https://book.douban.com/subject/37532254/"
+        },
+        {
+            "id": "comic_5",
+            "name": "乘着小船出发",
+            "pic": "https://img1.doubanio.com/view/subject/s/public/s35435340.jpg",
+            "updateTime": "",
+            "contentUrl": "https://book.douban.com/subject/38364431/"
+        },
+        {
+            "id": "comic_6",
+            "name": "镖⼈：卷十三",
+            "pic": "https://img1.doubanio.com/view/subject/s/public/s35358400.jpg",
+            "updateTime": "",
+            "contentUrl": "https://book.douban.com/subject/37668521/"
+        },
+        {
+            "id": "comic_7",
+            "name": "妄想是我们共有的秘密",
+            "pic": "https://img1.doubanio.com/view/subject/s/public/s35467839.jpg",
+            "updateTime": "",
+            "contentUrl": "https://book.douban.com/subject/38180069/"
+        },
+        {
+            "id": "comic_8",
+            "name": "镖人：卷二",
+            "pic": "https://img1.doubanio.com/view/subject/s/public/s29779360.jpg",
+            "updateTime": "",
+            "contentUrl": "https://book.douban.com/subject/30218904/"
+        },
+        {
+            "id": "comic_9",
+            "name": "榉之木",
+            "pic": "https://img9.doubanio.com/view/subject/s/public/s35431035.jpg",
+            "updateTime": "",
+            "contentUrl": "https://book.douban.com/subject/37448155/"
+        },
+        {
+            "id": "comic_10",
+            "name": "海鸥耶丁",
+            "pic": "https://img1.doubanio.com/view/subject/s/public/s35421989.jpg",
+            "updateTime": "",
+            "contentUrl": "https://book.douban.com/subject/38228861/"
+        },
+        {
+            "id": "comic_11",
+            "name": "再见绘梨",
+            "pic": "https://img9.doubanio.com/view/subject/s/public/s34367076.jpg",
+            "updateTime": "",
+            "contentUrl": "https://book.douban.com/subject/36122667/"
+        },
+        {
+            "id": "comic_12",
+            "name": "镖人：卷八",
+            "pic": "https://img3.doubanio.com/view/subject/s/public/s33506687.jpg",
+            "updateTime": "",
+            "contentUrl": "https://book.douban.com/subject/34813164/"
         }
     ]
 }
