@@ -76,6 +76,27 @@
             "updateTime": "2026",
             "pic": "",
             "contentUrl": "https://gh-proxy.org/https://github.com/fish2018/webhtv/releases/latest/download/mobile-arm64_v8a.apk"
+        },
+        {
+            "id": "t_8",
+            "name": "webTvArm64_v8a",
+            "updateTime": "2026",
+            "pic": "",
+            "contentUrl": "https://gh-proxy.org/https://github.com/motao123/webtv/releases/latest/download/leanback-arm64_v8a.apk"
+        },
+        {
+            "id": "t_9",
+            "name": "webTvArm7a",
+            "updateTime": "2026",
+            "pic": "",
+            "contentUrl": "https://gh-proxy.org/https://github.com/motao123/webtv/releases/latest/download/leanback-armeabi_v7a.apk"
+        },
+        {
+            "id": "t_10",
+            "name": "webTvMobileArm64_v8a",
+            "updateTime": "2026",
+            "pic": "",
+            "contentUrl": "https://gh-proxy.org/https://github.com/motao123/webtv/releases/latest/download/mobile-arm64_v8a.apk"
         }
     ]
 }
