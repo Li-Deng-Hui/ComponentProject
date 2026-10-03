@@ -12,28 +12,28 @@
             "name": "電視版v7a",
             "updateTime": "2026",
             "pic": "",
-            "contentUrl": "https://gh-proxy.org/https://github.com/FongMi/Release/raw/fongmi/apk/leanback-armeabi_v7a.apk"
+            "contentUrl": "https://gh-proxy.org/https://github.com/FongMi/Release/releases/latest/download/leanback-armeabi_v7a.apk"
         },
         {
             "id": "t_2",
             "name": "電視版v8a",
             "updateTime": "2026",
             "pic": "",
-            "contentUrl": "https://gh-proxy.org/https://github.com/FongMi/Release/raw/fongmi/apk/leanback-arm64_v8a.apk"
+            "contentUrl": "https://gh-proxy.org/https://github.com/FongMi/Release/releases/latest/download/leanback-arm64_v8a.apk"
         },
         {
             "id": "t_3",
             "name": "行動版v7a",
             "updateTime": "2026",
             "pic": "",
-            "contentUrl": "https://gh-proxy.org/https://github.com/FongMi/Release/raw/fongmi/apk/mobile-armeabi_v7a.apk"
+            "contentUrl": "https://gh-proxy.org/https://github.com/FongMi/Release/releases/latest/download/mobile-armeabi_v7a.apk"
         },
         {
             "id": "t_4",
             "name": "行動版v8a",
             "updateTime": "2026",
             "pic": "",
-            "contentUrl": "https://gh-proxy.org/https://github.com/FongMi/Release/raw/fongmi/apk/mobile-arm64_v8a.apk"
+            "contentUrl": "https://gh-proxy.org/https://github.com/FongMi/Release/releases/latest/download/mobile-arm64_v8a.apk"
         },
         {
             "id": "t_5",
@@ -61,38 +61,38 @@
             "name": "webhomeTvArm64_v8a",
             "updateTime": "2026",
             "pic": "",
-            "contentUrl": "https://gh-proxy.org/https://github.com/fish2018/webhtv/releases/latest/download/leanback-arm64_v8a.apk"
+            "contentUrl": "https://gh-proxy.org/https://github.com/webhtv/webhtv/releases/latest/download/leanback-arm64_v8a.apk"
         },
         {
             "id": "t_9",
             "name": "webhomeTvArm7a",
             "updateTime": "2026",
             "pic": "",
-            "contentUrl": "https://gh-proxy.org/https://github.com/fish2018/webhtv/releases/latest/download/leanback-armeabi_v7a.apk"
+            "contentUrl": "https://gh-proxy.org/https://github.com/webhtv/webhtv/releases/latest/download/leanback-armeabi_v7a.apk"
         },
         {
             "id": "t_10",
             "name": "webhomeTvMobileArm64_v8a",
             "updateTime": "2026",
             "pic": "",
-            "contentUrl": "https://gh-proxy.org/https://github.com/fish2018/webhtv/releases/latest/download/mobile-arm64_v8a.apk"
+            "contentUrl": "https://gh-proxy.org/https://github.com/webhtv/webhtv/releases/latest/download/mobile-arm64_v8a.apk"
         },
         {
-            "id": "t_8",
+            "id": "t_11",
             "name": "webTvArm64_v8a",
             "updateTime": "2026",
             "pic": "",
             "contentUrl": "https://gh-proxy.org/https://github.com/motao123/webtv/releases/latest/download/leanback-arm64_v8a.apk"
         },
         {
-            "id": "t_9",
+            "id": "t_12",
             "name": "webTvArm7a",
             "updateTime": "2026",
             "pic": "",
             "contentUrl": "https://gh-proxy.org/https://github.com/motao123/webtv/releases/latest/download/leanback-armeabi_v7a.apk"
         },
         {
-            "id": "t_10",
+            "id": "t_13",
             "name": "webTvMobileArm64_v8a",
             "updateTime": "2026",
             "pic": "",
