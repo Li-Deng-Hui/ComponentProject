@@ -335,6 +335,15 @@
       "type": 1
     },
     {
+      "api": "https://api.juliang.live/api/provide/vod",
+      "filterable": 0,
+      "key": "巨量资源网",
+      "name": "巨量资源网",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 1
+    },
+    {
       "api": "https://api.bwzyz.com/api.php/provide/vod",
       "filterable": 0,
       "key": "百万资源",
